@@ -21,7 +21,7 @@ Welcome to the Event Reminder GUI project! This project provides a simple Graphi
 2. **Install Dependencies:** Ensure you have Python installed on your machine.
 
 3. **Run the Application:** Navigate to the project directory and run the following command:
-> ```python event_reminder.py```
+> ```python app.py```
 
 
 4. **Input Event Details:** Enter the name and time of the event in the respective input fields.
